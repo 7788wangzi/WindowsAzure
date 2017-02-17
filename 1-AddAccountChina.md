@@ -11,3 +11,6 @@
 ### 方式二：
 使用环境参数`-Environment`, 这个参数有两个选项： azurechinacloud 和 azurecloud。  
 `Add-AzureAccount -Environment azurechinacloud`
+
+## 更多关于PowerShell命令
+[更多](https://docs.microsoft.com/zh-cn/powershell/resourcemanager/azurerm.storage/v1.2.0/new-azurermstorageaccount)
